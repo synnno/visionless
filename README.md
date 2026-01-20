@@ -3,6 +3,7 @@
 automated object tracking and reframing.
 it sees everything so you don't have to.
 capturing the beauty and emptiness of machine vision.
+result is an interesting to watch video
 
 ## features
 - tracks/identifies objects using yolov8x
@@ -11,6 +12,15 @@ capturing the beauty and emptiness of machine vision.
 - smart frame skipping for speed
 - auto reframes to 9:16 vertical format
 - background subtraction to focus on movement
+
+
+https://prnt.sc/5ZdArnUDwv9k (it catching snowflakes)
+
+# demo (quality is bad because its compressed)
+https://github.com/user-attachments/assets/d5f221f3-f0e7-4a90-8b63-f0c25ab96e80
+
+
+
 
 ## how to use
 basic usage:
