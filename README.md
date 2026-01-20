@@ -39,3 +39,6 @@ needs python 3.10+ (tested on 3.11)
 (if you have an amd card, onnxruntime-directml is the solution)
 
 powered by YOLO and an tracking algo
+
+
+https://synucu.cat
